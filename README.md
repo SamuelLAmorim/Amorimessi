@@ -58,17 +58,8 @@ Aqui estão as tecnologias que domino, apresentadas com os *badges* originais:
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) 
 ![Machine Learning](https://img.shields.io/badge/Machine%20Learning-FF6600?style=for-the-badge&logo=scikit-learn&logoColor=white) 
 ![YOLO](https://img.shields.io/badge/YOLO-000000?style=for-the-badge&logo=yolo&logoColor=white)
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
-
----
-
-
-
-### Linguagens Mais Usadas
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Amorimessi&theme=highcontrast&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-
-### Troféus
-![](https://github-profile-trophy.vercel.app/?username=Amorimessi&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white) 
+![Office](https://img.shields.io/badge/Microsoft%20Office-D83B01?style=for-the-badge&logo=microsoft-office&logoColor=white)
 
 ---
 
