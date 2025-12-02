@@ -57,11 +57,7 @@ Aqui estão as tecnologias que domino, apresentadas com os *badges* originais:
 
 ---
 
-## 📊 Estatísticas e Contribuições no GitHub
 
-| Estatísticas | Streak |
-| :--- | :--- |
-| ![](https://github-readme-stats.vercel.app/api?username=Amorimessi&theme=highcontrast&hide_border=false&include_all_commits=false&count_private=false) | ![](https://github-readme-streak-stats.herokuapp.com/?user=Amorimessi&theme=highcontrast&hide_border=false) |
 
 ### Linguagens Mais Usadas
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Amorimessi&theme=highcontrast&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
